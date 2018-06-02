@@ -8,7 +8,49 @@ body {
 }
 
 h1,
-a,
-h2 {
+a  {
   color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: Bold;
+}
+
+h2,
+h3 {
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#contact h2 {
+  color: white;
+  background-image: url("../images/the-flatiron-building.png");
+  font-size: 23px;
+}
+
+a {
+  font-size: 18px;
+}
+
+.footer {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+
+.footer p span {
+  font-size: 11px;
+}
+
+#process p {
+  font-size: 14px;
 }
